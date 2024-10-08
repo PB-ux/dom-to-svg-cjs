@@ -7,6 +7,9 @@
 	"files": [
 		"lib"
 	],
+	"repository": {
+		"url": "https://github.com/PB-ux/dom-to-svg-cjs"
+	},
 	"browserslist": [
 		"last 2 Chrome versions",
 		"last 2 Firefox versions"
