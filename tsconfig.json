@@ -3,6 +3,7 @@
 		"target": "ES2019",
 		"module": "ES2020",
 		"moduleResolution": "node",
+		"useUnknownInCatchVariables": false,
 		"outDir": "lib",
 		"rootDir": "src",
 		"sourceMap": true,
